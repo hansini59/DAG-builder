@@ -6,7 +6,7 @@ A powerful, interactive React-based Pipeline Editor for creating and managing Di
 
 ## 🚀 Live Demo
 
-**[View Live Application]()**
+**[View Live Application](https://chimerical-arithmetic-328273.netlify.app/)**
 
 ## ✨ Features
 
