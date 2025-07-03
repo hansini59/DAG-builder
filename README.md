@@ -2,8 +2,6 @@
 
 A powerful, interactive React-based Pipeline Editor for creating and managing Directed Acyclic Graphs (DAGs). Built with modern web technologies and featuring a beautiful, production-ready interface.
 
-![Pipeline Editor Screenshot]()
-
 ## 🚀 Live Demo
 
 **[View Live Application](https://chimerical-arithmetic-328273.netlify.app/)**
